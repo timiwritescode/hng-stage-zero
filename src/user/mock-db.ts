@@ -7,7 +7,7 @@ export const db: {users: User[]} = {
 const timi = new User;
 timi.name = "timi"
 timi.email = "odebodezion@gmail.com"
-timi.githubProfile = "https://github.com/timiwritescode"
+timi.githubProfile = "https://github.com/timiwritescode/hng-stage-zero"
 
 db.users.push(timi);
 
